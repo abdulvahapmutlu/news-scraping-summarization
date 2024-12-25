@@ -102,3 +102,26 @@ summary_ids = model.generate(
 
 ## **License**
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
+### **Ethical Considerations and Usage**
+
+This project is intended for educational and research purposes, demonstrating the integration of web scraping and text summarization technologies. Please adhere to the following guidelines to ensure ethical and responsible use:
+
+1. **Respect Website Terms of Service**:
+   - Before scraping any website, review and comply with its terms of service to avoid violating policies.
+   - Seek permission if the content you wish to scrape requires explicit authorization.
+
+2. **Data Privacy**:
+   - Avoid scraping sensitive or personal information from websites.
+   - Ensure that the data collected is used responsibly and does not infringe on privacy rights.
+
+3. **Attribution**:
+   - Attribute the source of the scraped content where applicable, especially when sharing results or publishing summaries.
+
+4. **Non-Commercial Use**:
+   - This project should not be used for commercial purposes without proper licensing or agreements with content owners.
+
+5. **Impact on Servers**:
+   - Implement respectful scraping practices, such as rate-limiting and pausing between requests, to prevent overloading the target website's servers.
+
+By adhering to these ethical guidelines, you can ensure that this project is used responsibly and benefits the broader community.
